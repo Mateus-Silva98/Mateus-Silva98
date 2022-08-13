@@ -1,6 +1,6 @@
 ### Oiii! Eu sou Mateus Silva :wave:
 
-- :bar_chart:: Analista de BI - JR
+- :bar_chart:: Analista de BI 
 - :books:: Linguagem DAX, Python e SQL - Automação
 - :thinking: Aprendendo Desenvolvimento de engenharia de dados com Pentaho, Python e Power BI
 - :mailbox: Como me contatar: mateusmenezes8991@gmail.com
